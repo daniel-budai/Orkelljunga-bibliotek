@@ -1,9 +1,9 @@
 # Örkelljunga bibliotek 
-[Link till examinationsuppgiften](https://gist.github.com/Andreas-Zocom/a3f71b4ead8f7260a9066888313bbb40)
+[Till examinationsuppgiften](https://gist.github.com/Andreas-Zocom/a3f71b4ead8f7260a9066888313bbb40)
 
-[Link till projektdagbok](https://gist.github.com/daniel-budai/2b9faefa67cf765f77612bbf66c2c776)
+[Till projektdagbok](https://gist.github.com/daniel-budai/2b9faefa67cf765f77612bbf66c2c776)
 
-## Gruppmedlemmar 
+## Gruppmedlemmar: 
 
 _Daniel Budai, Julia Wikdahl, Ege Özakdemir, Paulius Kamuntavicius_
 
@@ -11,7 +11,18 @@ _Daniel Budai, Julia Wikdahl, Ege Özakdemir, Paulius Kamuntavicius_
 
 https://trello.com/b/SS9V9Mq1/%C3%B6rkelljunga-bibliotek-daniel-budai-julia-wikdal-ege-%C3%B6zakdemir-paulius-kamuntavicius
 
-# Gruppkontrakt 
+## Schema:
+
+| Schema       |           |   |
+| ------------- |:-------------:| -----:|
+| Måndag, 01/22      | Möte: 10:00 | # |
+| Tisdag, 01/23     | Möte: inte bestämt      |  #  |
+| Onsdag, 01/24 | Möte: inte bestämt      |    # |
+| Torsdag 01/25, inlämning     | Möte: inte bestämt | # |
+
+___
+
+### Gruppkontrakt: 
 
 ```- Tydliga mål och syften
 Definiera gruppens övergripande mål och syften så att alla förstår och kan arbeta mot samma mål.
@@ -28,4 +39,4 @@ Reserve standup - 18:00
 Sätt realistiska tidsramar för projektet och dela upp arbetet i hanterbara delar med konkreta deadlines.
 
 - Konflikthantering och feedback
-Definiera en process för konflikthantering och ge tydliga riktlinjer för hur feedback ska ges och tas emot konstruktivt. ```
+Definiera en process för konflikthantering och ge tydliga riktlinjer för hur feedback ska ges och tas emot konstruktivt. 
