@@ -1,6 +1,8 @@
 # Örkelljunga bibliotek 
 [Link till examinationsuppgiften](https://gist.github.com/Andreas-Zocom/a3f71b4ead8f7260a9066888313bbb40)
 
+[Link till projektdagbok](https://gist.github.com/daniel-budai/2b9faefa67cf765f77612bbf66c2c776)
+
 ## Gruppmedlemmar 
 
 _Daniel Budai, Julia Wikdahl, Ege Özakdemir, Paulius Kamuntavicius_
