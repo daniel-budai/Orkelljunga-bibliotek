@@ -2,7 +2,7 @@
 
 ## Gruppmedlemmar 
 
-Daniel Budai, Julia Wikdal, Ege Özakdemir, Paulius Kamuntavicius
+Daniel Budai, Julia Wikdahl, Ege Özakdemir, Paulius Kamuntavicius
 
 ## Trello: 
 
