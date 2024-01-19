@@ -1,19 +1,22 @@
 # Örkelljunga bibliotek 
-[Till examinationsuppgiften](https://gist.github.com/Andreas-Zocom/a3f71b4ead8f7260a9066888313bbb40)
-
-[Till projektdagbok](https://gist.github.com/daniel-budai/2b9faefa67cf765f77612bbf66c2c776)
 
 ## Gruppmedlemmar: 
 
 _Daniel Budai, Julia Wikdahl, Ege Özakdemir, Paulius Kamuntavicius_
 
-## Trello: 
+# Links
 
-https://trello.com/b/SS9V9Mq1/%C3%B6rkelljunga-bibliotek-daniel-budai-julia-wikdal-ege-%C3%B6zakdemir-paulius-kamuntavicius
+[Till trelloboard](https://trello.com/b/SS9V9Mq1/%C3%B6rkelljunga-bibliotek-daniel-budai-julia-wikdal-ege-%C3%B6zakdemir-paulius-kamuntavicius)
+
+[Till examinationsuppgiften](https://gist.github.com/Andreas-Zocom/a3f71b4ead8f7260a9066888313bbb40)
+
+[Till projektdagbok](https://gist.github.com/daniel-budai/2b9faefa67cf765f77612bbf66c2c776)
+
+
 
 ## Schema:
 
-| Schema       |           |   |
+|       |           |   |
 | ------------- |:-------------:| -----:|
 | Måndag, 01/22      | Möte: 10:00 | # |
 | Tisdag, 01/23     | Möte: inte bestämt      |  #  |
