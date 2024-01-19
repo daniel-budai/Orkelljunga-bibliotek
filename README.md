@@ -10,7 +10,7 @@ https://trello.com/b/SS9V9Mq1/%C3%B6rkelljunga-bibliotek-daniel-budai-julia-wikd
 
 # Gruppkontrakt 
 
-- Tydliga mål och syften
+```- Tydliga mål och syften
 Definiera gruppens övergripande mål och syften så att alla förstår och kan arbeta mot samma mål.
 
  - Klara kommunikationsvägar
@@ -25,4 +25,4 @@ Reserve standup - 18:00
 Sätt realistiska tidsramar för projektet och dela upp arbetet i hanterbara delar med konkreta deadlines.
 
 - Konflikthantering och feedback
-Definiera en process för konflikthantering och ge tydliga riktlinjer för hur feedback ska ges och tas emot konstruktivt.
+Definiera en process för konflikthantering och ge tydliga riktlinjer för hur feedback ska ges och tas emot konstruktivt. ```
