@@ -20,7 +20,7 @@ _Daniel Budai, Julia Wikdahl, Ege Özakdemir, Paulius Kamuntavicius_
 | ------------- |:-------------:| -----:|
 | Måndag, 01/22      | Möte: 10:00 | kvällsmöte: 18:00 |
 | Tisdag, 01/23     | Möte: 10:00      | kvällsmöte: 18:00  |
-| Onsdag, 01/24 | Möte: 10:00     | kvällsmöte:    18:00 |
+| Onsdag, 01/24 | Möte: 10:30     | Arbete tills färdig. |
 | Torsdag 01/25, inlämning     | Möte: inte bestämt | # |
 
 ___
