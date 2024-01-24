@@ -1,4 +1,30 @@
-Gruppkontrakt
+# Örkelljunga bibliotek 
+
+## Gruppmedlemmar: 
+
+_Daniel Budai, Julia Wikdahl, Ege Özakdemir, Paulius Kamuntavicius_
+
+# Links
+
+[Till trelloboard](https://trello.com/b/SS9V9Mq1/%C3%B6rkelljunga-bibliotek-daniel-budai-julia-wikdal-ege-%C3%B6zakdemir-paulius-kamuntavicius)
+
+[Till examinationsuppgiften](https://gist.github.com/Andreas-Zocom/a3f71b4ead8f7260a9066888313bbb40)
+
+[Till projektdagbok](https://gist.github.com/daniel-budai/2b9faefa67cf765f77612bbf66c2c776)
+
+
+## Schema:
+
+|       |           |   |
+| ------------- |:-------------:| -----:|
+| Måndag, 01/22      | Möte: 10:00 | kvällsmöte: 18:00 |
+| Tisdag, 01/23     | Möte: 10:00      | kvällsmöte: 18:00  |
+| Onsdag, 01/24 | Möte: 10:30     | Arbete tills färdig. |
+| Torsdag 01/25,    | 11:00 | inlämning individuellt |
+
+___
+
+### Gruppkontrakt: 
 
 1. **Allas röst ska höras:**
    - Var och en får säga sin åsikt.
@@ -15,7 +41,7 @@ Gruppkontrakt
 4. **Tidig rapportering vid frånvaro:**
    - Om du är sjuk, säg till i god tid.
 
-5. **Flexibla arbetstider:**
+5. **Arbetstider:**
    - Arbetstiderna anpassas så alla kan vara med.
    - Vi enas om tider som funkar för alla.
 
