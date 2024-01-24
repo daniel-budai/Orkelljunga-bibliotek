@@ -10,7 +10,7 @@ _Daniel Budai, Julia Wikdahl, Ege Özakdemir, Paulius Kamuntavicius_
 
 [Till examinationsuppgiften](https://gist.github.com/Andreas-Zocom/a3f71b4ead8f7260a9066888313bbb40)
 
-[Till projektdagbok](https://gist.github.com/daniel-budai/2b9faefa67cf765f77612bbf66c2c776)
+[Till gemensam projektdagbok](https://gist.github.com/daniel-budai/2b9faefa67cf765f77612bbf66c2c776)
 
 
 ## Schema:
