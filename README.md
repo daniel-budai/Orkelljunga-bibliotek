@@ -1,44 +1,26 @@
-# Örkelljunga bibliotek 
+Gruppkontrakt
 
-## Gruppmedlemmar: 
+1. **Allas röst ska höras:**
+   - Var och en får säga sin åsikt.
+   - Ingen behöver vara rädd för att dela sina tankar.
 
-_Daniel Budai, Julia Wikdahl, Ege Özakdemir, Paulius Kamuntavicius_
+2. **Rättvist arbete:**
+   - Uppgifter ska delas jämlikt.
+   - Vi stöttar varandra för att ingen ska känna sig överbelastad.
 
-# Links
+3. **Ödmjukhet och ärlighet:**
+   - Vi är schyssta och ärliga.
+   - Feedback ges konstruktivt och tas emot öppet.
 
-[Till trelloboard](https://trello.com/b/SS9V9Mq1/%C3%B6rkelljunga-bibliotek-daniel-budai-julia-wikdal-ege-%C3%B6zakdemir-paulius-kamuntavicius)
+4. **Tidig rapportering vid frånvaro:**
+   - Om du är sjuk, säg till i god tid.
 
-[Till examinationsuppgiften](https://gist.github.com/Andreas-Zocom/a3f71b4ead8f7260a9066888313bbb40)
+5. **Flexibla arbetstider:**
+   - Arbetstiderna anpassas så alla kan vara med.
+   - Vi enas om tider som funkar för alla.
 
-[Till projektdagbok](https://gist.github.com/daniel-budai/2b9faefa67cf765f77612bbf66c2c776)
+6. **Majoritetsprincip vid oenighet:**
+   - Om vi inte håller med, röstar vi.
+   - Det som som får majoritet, vinner.
 
-
-## Schema:
-
-|       |           |   |
-| ------------- |:-------------:| -----:|
-| Måndag, 01/22      | Möte: 10:00 | kvällsmöte: 18:00 |
-| Tisdag, 01/23     | Möte: 10:00      | kvällsmöte: 18:00  |
-| Onsdag, 01/24 | Möte: 10:30     | Arbete tills färdig. |
-| Torsdag 01/25,    | 11:00 | inlämning individuellt |
-
-___
-
-### Gruppkontrakt: 
-
-```- Tydliga mål och syften
-Definiera gruppens övergripande mål och syften så att alla förstår och kan arbeta mot samma mål.
-
- - Klara kommunikationsvägar
-Fastställ hur och när kommunikation kommer att ske inom gruppen, inklusive möten, rapportering och öppen dialog.
-
-- Uppdelning av ansvar och roller
-Specificera tydligt vilka ansvar och roller varje medlem har, för att undvika förvirring och dubbelarbete.
-
-- Tidsramar och deadlines
-Standup - 10:00
-Reserve standup - 18:00
-Sätt realistiska tidsramar för projektet och dela upp arbetet i hanterbara delar med konkreta deadlines.
-
-- Konflikthantering och feedback
-Definiera en process för konflikthantering och ge tydliga riktlinjer för hur feedback ska ges och tas emot konstruktivt. 
+Genom att hålla oss till detta kontrakt, skapar vi en bra och rättvis arbetsgrupp där alla kan trivas och prestera sitt bästa.
